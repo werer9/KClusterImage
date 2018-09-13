@@ -1,5 +1,5 @@
 # KClusterImage
-ENGEN131 Matlab Project
+Caelan Murch's ENGEN131 Matlab Project Submission
 
 Project worth 10% of course grade.
 ## Grade
